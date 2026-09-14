@@ -1,0 +1,6 @@
+data/
+data/processed/
+data/raw/
+*.csv
+*.xlsx
+*.xls
